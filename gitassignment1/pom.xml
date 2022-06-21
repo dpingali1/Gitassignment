@@ -18,7 +18,7 @@
   <build>
     <finalName>gitassignment1</finalName>
   </build>
-  <distributionManagement>
+<distributionManagement>
 <repository>
 <id>nexus-site</id>
 <name>demoRelease</name>
