@@ -21,7 +21,7 @@
 <distributionManagement>
 <repository>
 <id>nexus-site</id>
-<name>demoRelease</name>
+<name>demorelease</name>
 <url>http://20.40.52.198:8081/repository/demoRelease/</url>
 </repository>
 <snapshotRepository>
