@@ -22,12 +22,12 @@
 <repository>
 <id>nexus-site</id>
 <name>demoRelease</name>
-<url>http://20.40.52.198:8081/repository/demoRelease/</url>
+<url>http://20.83.169.184:8081/repository/demoRelease/</url>
 </repository>
 <snapshotRepository>
 <id>nexus-site</id>
 <name>demo-snapshot</name>
-<url>http://20.40.52.198:8081/repository/demo-snapshot/</url>
+<url>http://20.83.169.184:8081/repository/demo-snapshot/</url>
 </snapshotRepository>
 </distributionManagement>
 </project>
